@@ -1,6 +1,6 @@
 # Documentation French.gg
 
-Bienvenue sur le dépôt officiel de documentation de French.gg. Cette documentation est **publique et communautaire** - tout le monde peut y contribuer !
+Bienvenue sur le dépôt officiel d documentation de French.gg. Cette documentation est **publique et communautaire** - tout le monde peut y contribuer !
 
 ## À propos de French.gg
 
